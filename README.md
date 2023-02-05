@@ -1,4 +1,4 @@
-#Siberia
+# Siberia
 
 Siberia is a computer graphics project built using C++ and OpenGL. The project represents a static polar environment with implemented lighting, shading, and textures.
 
